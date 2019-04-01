@@ -1,6 +1,6 @@
 Neste tutorial será criado um ChatBot com Watson Assistant e utilizará o Node-red e ChatFuel como orquestrador:
 1) Crie um aconta na IBM Cloud: https://cloud.ibm.com/registration;
-2) Crie uma instância do Watson Assitant e import o skill no json no link abaixo, conforme o vídeo abaixo (https://www.youtube.com/watch?v=vPAJMZJ8804):
+2) Crie uma instância do Watson Assitant e import o skill no json <a href="http://www.quora.com/Adam-DAngelo">aqui</a>, conforme o vídeo abaixo (https://www.youtube.com/watch?v=vPAJMZJ8804):
 
 [![Integrando Watson Assistant ao Facebook](https://img.youtube.com/vi/vPAJMZJ8804/0.jpg)](https://www.youtube.com/watch?v=vPAJMZJ8804 "Criando o serviço Watson Assistant e importando um skill")
 

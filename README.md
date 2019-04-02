@@ -10,10 +10,8 @@ Neste tutorial será criado um ChatBot com Watson Assistant e utilizará o Node-
    
 [![Integrando Watson Assistant ao Facebook](https://img.youtube.com/vi/Oni7g2uK9PM/0.jpg)](https://www.youtube.com/watch?v=Oni7g2uK9PM "Integrando Watson Assistant ao Facebook")
 
-Obs: Utilize <a href="https://github.com/sergiogama/chatbot-watson-assistant-facebook-chatfuel/blob/master/Node-red-flow-WA-Facebook-Chatfuel.json">aqui</a> flow mais aualizado.
-
 4) Altere o seu fluxo no Node-red para a integração com Watson STT e TTS, para que o seu chatbot receba e envie aúdio. Será necessário instanciar os dois services na IBM Cloud Também. 
-Utilize o flow anexo aqui e veja em detalhes no vídeo à seguir:
+Utilize o flow anexo <a href="https://flows.nodered.org/flow/4d710250552f8ca3091356d972f358c5">aqui</a> e veja em detalhes no vídeo à seguir:
 
 https://www.youtube.com/watch?v=d-O4UKYYLo0
 
